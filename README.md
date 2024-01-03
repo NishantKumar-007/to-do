@@ -1,2 +1,3 @@
 # to-do
- a simple crud app
+ A simple CRUD application which allows you to create, update and delete todos.
+ 
